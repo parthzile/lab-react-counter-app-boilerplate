@@ -1,12 +1,13 @@
 import './App.css'
-import Counterclass from './assets/components/counterClass'
-// import Counter from './assets/components/Counter'
+// import CounterS from './components/CounterS'
+// import Counterclass from './assets/components/counterClass'
+import Counter from './components/Counter'
 
 function App() {
 
   return (
     <>
-      <Counterclass />
+      <Counter />
     </>
   )
 }
